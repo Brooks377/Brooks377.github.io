@@ -1,5 +1,5 @@
 ---
-layout:wide_default
+layout: wide_default
 ---
 
 # Comprehensive report on Large-Cap Firms' Political Attitude
