@@ -1,6 +1,6 @@
 ## About Me
 
-This will be a paragraph about me :) Add a link or something
+I am a finance major at the [Lehigh college of business](https://business.lehigh.edu/) with a special interests in international relations and computer science. My time at university has been shaped by my desire to make complex financial concepts digestible; as it is my opinion that the public school system lacks adequate curricula for these topics. As an employee: I will use detail oriented analysis to identify inefficient systems and promote optimized solutions. 
 
 ---
 
@@ -8,10 +8,10 @@ This will be a paragraph about me :) Add a link or something
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Sentiment Analysis of 10-K's to Predict Returns](report.md)**_
+_**[Sentiment Analysis of 10-K's to Predict Returns](markdown/report.md)**_
 
-<img src="output_20_0.png?raw=true"/>
-<img src="output_23_0.png?raw=true"/>
+<img src="images/output_20_0.png?raw=true"/>
+<img src="images/output_23_0.png?raw=true"/>
 
 ---
 
@@ -33,9 +33,11 @@ _**[Loan Amortization Scheduler](https://github.com/Brooks377/Personal-Projects/
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+- To promote transparency and fairness in financial institutions
+- To make well-informed and profitable investments, in my own life and in any business to which I'm employed
+- To create systems that allow and encourage productive work environments
+- To further enhance the usability of our current financial markets
+- To pioneer new systems in the modern, ever-changing economic ecosystem
 
 ---
 
