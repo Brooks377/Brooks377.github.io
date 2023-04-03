@@ -1,6 +1,7 @@
 ---
-layout: wide_default
+layout:wide_default
 ---
+
 
 # Comprehensive report on Large-Cap Firms' Political Attitude
 #### Due Date 3/24/2023 @ 4 P.M.
