@@ -18,7 +18,8 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](report.md)**_
 
 _**[Loan Amortization Scheduler](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization%20Table)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/200000_3.5_30_2023-01-01_M-30_bonus0.png?raw=true"/>
+<img src="images/200000_3.5_30_2023-01-01_M-30_bonus200.png?raw=true"/>
 
 ---
 
