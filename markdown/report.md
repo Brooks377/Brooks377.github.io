@@ -56,6 +56,7 @@ Next, I filtered the data set to only include return values for the firms in the
 - Originally it was at this point that I dropped duplicate dates to ensure one return value per day (Which results in losing 1331 returns (or .975% of the data))
     - However, as the professor correctly noted, we did not have enough data to know which return to drop
         - Thankfully, the professor cleaned the data for us, and duplicate dates are no longer an issue; so I removed my attempted fix
+<br>
 ```python
 df_returns_500_bc = df_returns[df_returns['ticker'].isin(sp500_wDate['Symbol'])]
 ```
