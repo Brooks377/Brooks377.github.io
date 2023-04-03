@@ -167,6 +167,8 @@ sp500_ret = sp500_wDate.merge(df_returns_500_merge.rename(columns={'ticker':'Sym
 ### Sentiment Scores: HTML Parsing and Variable Creation
 Between the last step and this one, I used multiple tests to find the stocks that did not have enough data to perform analysis on, and I dropped them, resulting in 488 rows of cumulative return variables and dates. Now, I use the CIK's of my desired 488 stocks to calculate different sentiment scores using re.findall and the NEAR_regex() function (scores are standardized by document length):
 - an example of what goes through the loop (finding positive sentiment score using LM lexicon):
+<br>
+
 ```python
 LM = pd.read_csv('inputs/LM_MasterDictionary_1993-2021.csv')
 LM_positive_U = LM.query('Positive > 0')['Word'].to_list()
