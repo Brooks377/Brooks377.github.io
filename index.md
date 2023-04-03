@@ -15,7 +15,7 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](markdown/report.md)**_
 
 ---
 
-## FIN 377 Final Project
+## FIN 377 Team Final Project
 
 _**[Team Project Website](https://tommymcdade.github.io/leftside)**_
 
