@@ -116,7 +116,7 @@ for firm in tqdm(sp500['CIK'].astype(str)):
 ### Sentiment Scores: Getting 10-K Filing Date + Adding Returns
 In order to correctly relate 10-K filing's to returns, I will need the filing date of each
 - I started by creating lists of Accession numbers and CIK's by using re.search on the file paths:
-<br>
+
 ```python
 # grab accession number from file paths
 acc_pattern = r"\d{10}-\d{2}-\d{6}"
@@ -128,7 +128,6 @@ file_CIK_list = [re.search(CIK_pattern, file_name).group() for file_name in file
 ```
 
 I then used the following for loop to place the CIK and Accession number into the correct place in the url, and pulled 10-K dates using a CSS selector, adding the dates directly to the dataframe:
-<br>
 ```python
 for index, row in tqdm(CIK_ACC.iterrows()):
         cik = row["CIK"]
