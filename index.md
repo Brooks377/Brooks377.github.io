@@ -17,7 +17,7 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](report.md)**_
 
 _**[Team Project Website](https://tommymcdade.github.io/leftside)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### ADD IMAGE
 
 ---
 
