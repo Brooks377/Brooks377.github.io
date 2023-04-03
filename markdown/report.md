@@ -95,7 +95,7 @@ To calculate general sentiment scores, I am looking to find the 10-K HTML files 
         - After fixes, 498 10-K's are downloaded; the only 2 missing do not have a 10-K filed on the SEC website
     
 To work around a major problem where many 10-K's were not downloading, and to fix erroneous filings, I used CIK instead of ticker when looping into the SEC EDGAR downloader.
-- for example, this code produces the Heico 10-K, when it should produce one for Agilent Technologies
+- for example, this code produces the Heico 10-K, when it should produce one for Agilent Technologies:
 ```python
 dl.get("10-K", "A", amount=1, after="2022-01-01", before="2022-12-31")
 ```
