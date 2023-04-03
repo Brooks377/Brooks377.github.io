@@ -13,19 +13,20 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](report.md)**_
 <img src="output_20_0.png?raw=true"/>
 <img src="output_23_0.png?raw=true"/>
 
-
----
-
-_**[Loan Amortization Scheduler](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization%20Table)**_
-
-<img src="images/200000_3.5_30_2023-01-01_M-30_bonus0.png?raw=true"/>
-<img src="images/200000_3.5_30_2023-01-01_M-30_bonus200.png?raw=true"/>
-
 ---
 
 _**[Team Project Website](https://tommymcdade.github.io/leftside)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+## Personal Projects
+
+_**[Loan Amortization Scheduler](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization%20Table)**_
+
+<img src="images/200000_3.5_30_2023-01-01_M-30_bonus0.png?raw=true"/>
+<img src="images/200000_3.5_30_2023-01-01_M-30_bonus200.png?raw=true"/>
 
 ---
 
