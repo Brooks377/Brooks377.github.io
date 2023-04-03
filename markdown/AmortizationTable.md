@@ -1,5 +1,5 @@
 ---
-layouth: wide_default
+layout: wide_default
 ---
 
 ```python
