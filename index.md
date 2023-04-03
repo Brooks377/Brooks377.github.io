@@ -4,7 +4,7 @@ I am a finance major at the [Lehigh college of business](https://business.lehigh
 
 ---
 
-## Portfolio
+## FIN 377 Midterm Project
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -14,6 +14,8 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](markdown/report.md)**_
 <img src="images/output_23_0.png?raw=true"/>
 
 ---
+
+## FIN 377 Final Project
 
 _**[Team Project Website](https://tommymcdade.github.io/leftside)**_
 
@@ -44,7 +46,11 @@ _**[Loan Amortization Scheduler (link to repo)](https://github.com/Brooks377/Per
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Skiing
+- Soccer
+- Hiking
+- Coding
+- Debate
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
