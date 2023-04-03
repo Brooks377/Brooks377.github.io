@@ -10,8 +10,6 @@ This will be a paragraph about me :) Add a link or something
 
 _**[Sentiment Analysis of 10-K's to Predict Returns](report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
 <img src="output_20_0.png?raw=true"/>
 <img src="output_23_0.png?raw=true"/>
 
@@ -19,8 +17,6 @@ You can show off your midterm analysis by moving the report components and outpu
 ---
 
 _**[Loan Amortization Scheduler](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization%20Table)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
