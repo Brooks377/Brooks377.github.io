@@ -12,8 +12,8 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/output_20_0.png?raw=true"/>
-<img src="images/output_23_0.png?raw=true"/>
+<img src="output_20_0.png?raw=true"/>
+<img src="output_23_0.png?raw=true"/>
 
 
 ---
