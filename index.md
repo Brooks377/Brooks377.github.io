@@ -23,8 +23,8 @@ _**[Team Project Website](https://tommymcdade.github.io/leftside)**_
 
 ## Personal Projects
 
-_**[Loan Amortization Scheduler (link to repo)](markdown/AmortizationTable.md)**_ <br>
-_**[Loan Amortization Scheduler (current build/not complete)](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization%20Table)**_
+_**[Loan Amortization Scheduler (current build/not complete)](markdown/AmortizationTable.md)**_ <br>
+_**[Loan Amortization Scheduler (link to repo)](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization%20Table)**_
 
 <img src="images/200000_3.5_30_2023-01-01_M-30_bonus0.png?raw=true"/>
 <img src="images/200000_3.5_30_2023-01-01_M-30_bonus200.png?raw=true"/>
