@@ -1,6 +1,6 @@
 ## About Me
 
-I am a finance major at the [Lehigh college of business](https://business.lehigh.edu/) with a special interests in international relations and computer science. My time at university has been shaped by my desire to make complex financial concepts digestible; as it is my opinion that the public school system lacks adequate curricula for these topics. As an employee: I will use detail oriented analysis to identify inefficient systems and promote optimized solutions. 
+I am a finance major at the [Lehigh college of business](https://business.lehigh.edu/) with special interests in international relations and computer science. My time at university has been shaped by my desire to make complex financial concepts digestible; as it is my opinion that the public school system lacks adequate curricula for these topics. As an employee: I will use detail oriented analysis to identify inefficient systems and promote optimized solutions. 
 
 ---
 
