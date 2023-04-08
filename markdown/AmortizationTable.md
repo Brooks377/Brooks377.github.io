@@ -1,7 +1,6 @@
 ---
 layout: wide_default
 ---
-
 ```python
 # just spend an hour fixing a problem that didn't exist. All because Jan 1 2033 is a weekend... love bdays
 #
