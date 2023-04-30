@@ -23,8 +23,6 @@ _**[Team Project Website](https://ssls-airbnb-analysis.streamlit.app/)**_
 
 <img src="images/SSLS_dashboard_example.png?raw=true"/>
 
-#### ADD IMAGE
-
 ---
 
 ## Personal Projects
