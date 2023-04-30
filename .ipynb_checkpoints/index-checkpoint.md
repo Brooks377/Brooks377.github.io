@@ -17,13 +17,19 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](markdown/report.md)**_
 
 ## FIN 377 Team Final Project
 
-_**[Team Project Website](https://tommymcdade.github.io/leftside)**_
+For our final project, team Strong-Side-Left-Side performed a detailed analysis of Boston AirBnB prices. We used machine learning to create models that give suggested, in-sample list prices. A prospective AirBnB host in boston can use this website as a tool to get an idea of how to price their listings.
+
+_**[Team Project Website](https://ssls-airbnb-analysis.streamlit.app/)**_
+
+<img src="images/SSLS_dashboard_example.png?raw=true"/>
 
 #### ADD IMAGE
 
 ---
 
 ## Personal Projects
+
+To enhance the speed at which I learned pandas, I made a mortgage payment calculator that displays an amortization table and graph. It can be exported as a .py function for use in other projects.
 
 _**[Loan Amortization Scheduler (current build/not complete)](markdown/AmortizationTable.md)**_ <br>
 _**[Loan Amortization Scheduler (link to repo)](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization_Table)**_
@@ -49,7 +55,7 @@ _**[Loan Amortization Scheduler (link to repo)](https://github.com/Brooks377/Per
 - Skiing
 - Soccer
 - Hiking
-- Coding
+- Coding (Thanks Professor Bowen!)
 - Debate
 
 ---
