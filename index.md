@@ -17,7 +17,9 @@ _**[Sentiment Analysis of 10-K's to Predict Returns](markdown/report.md)**_
 
 ## FIN 377 Team Final Project
 
-_**[Team Project Website](https://tommymcdade.github.io/leftside)**_
+_**[Team Project Website](https://ssls-airbnb-analysis.streamlit.app/)**_
+
+<img src="images/SSLS_dashboard_example.png?raw=true"/>
 
 #### ADD IMAGE
 
@@ -49,7 +51,7 @@ _**[Loan Amortization Scheduler (link to repo)](https://github.com/Brooks377/Per
 - Skiing
 - Soccer
 - Hiking
-- Coding
+- Coding (Thanks Professor Bowen!)
 - Debate
 
 ---
