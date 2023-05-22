@@ -30,7 +30,7 @@ _**[Team Project Website](https://ssls-airbnb-analysis.streamlit.app/)**_
 To enhance the speed at which I learned pandas, I made a mortgage payment calculator that displays an amortization table and graph. It can be exported as a .py function for use in other projects.
 
 _**[Loan Amortization Scheduler (current build/not complete)](markdown/AmortizationTable.md)**_ <br>
-_**[Loan Amortization Scheduler (link to repo)](https://github.com/Brooks377/Personal-Projects/tree/main/Amortization_Table)**_
+_**[Loan Amortization Scheduler (link to repo)](https://github.com/BrooksWalsh/Personal-Projects/tree/main/Amortization_Table)**_
 
 <img src="images/200000_3.5_30_2023-01-01_M-30_bonus0.png?raw=true"/>
 <img src="images/200000_3.5_30_2023-01-01_M-30_bonus200.png?raw=true"/>
